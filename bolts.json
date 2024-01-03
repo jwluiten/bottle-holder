@@ -1,0 +1,77 @@
+{
+  "M2.5": {
+    "headless": {
+      "diameter": 2.5
+    },
+    "socket_head": {
+      "diameter": 2.5,
+      "head_diameter": 4.5,
+      "head_length": 2.5
+    },
+    "countersunk": {
+      "diameter": 2.5,
+      "head_diameter": 5,
+      "head_length": 1.5
+    }
+  },
+  "M3": {
+    "headless": {
+      "diameter": 3
+    },
+    "socket_head": {
+      "diameter": 3,
+      "head_diameter": 5.5,
+      "head_length": 3
+    },
+    "hex_head": {
+      "diameter": 3,
+      "width": 5.5,
+      "head_length": 2
+    },
+    "countersunk": {
+      "diameter": 3,
+      "head_diameter": 6,
+      "head_length": 1.7
+    }
+  },
+  "M4": {
+    "headless": {
+      "diameter": 4
+    },
+    "socket_head": {
+      "diameter": 4,
+      "head_diameter": 7,
+      "head_length": 4
+    },
+    "hex_head": {
+      "diameter": 4,
+      "width": 7,
+      "head_length": 2.8
+    },
+    "countersunk": {
+      "diameter": 4,
+      "head_diameter": 8,
+      "head_length": 2.3
+    }
+  },
+  "M5": {
+    "headless": {
+      "diameter": 5
+    },
+    "socket_head": {
+      "diameter": 5,
+      "head_diameter": 8.5,
+      "head_length": 5
+    },
+    "hex_head": {
+      "diameter": 5,
+      "width": 8,
+      "head_length": 3.5
+    },
+    "countersunk": {
+      "diameter": 5,
+      "head_diameter": 10,
+      "head_length": 2.8
+    }
+  }
+}
